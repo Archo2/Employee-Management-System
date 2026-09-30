@@ -21,7 +21,7 @@ Node.js · Inquirer · MySQL (mysql2) · console.table
 **Prerequisites:** Node.js and MySQL
 
 ```bash
-git clone https://github.com/Archils/Employee-Management-System.git
+git clone https://github.com/Archo2/Employee-Management-System.git
 cd Employee-Management-System
 npm install
 ```
@@ -46,5 +46,5 @@ npm install
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
